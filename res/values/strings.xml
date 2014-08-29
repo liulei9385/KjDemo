@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">KjDemo</string>
+	<string name="hello_world">Hello world!</string>
+	<string name="clean_process">清理后台进程或服务</string>
+	<string name="parse_pic">解析图片</string>
+	<string name="webview">webView</string>
+	<string name="play_network_video">播放网络视频</string>
+	<string name="title_activity_volley">VolleyActivity</string>
+	<string name="volley">volley</string>
+
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<integer name="imageView01">0x20140801</integer>
+	<integer name="button01">0x20140802</integer>
+	<integer name="button02">0x20140803</integer>
+</resources>
